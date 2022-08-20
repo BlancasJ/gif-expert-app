@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in GifGridItem should show GifGridItem component correctly 1`] = `
+<div
+  className="card animate__animated animate__bounce"
+>
+  <img
+    alt="One Punch Man"
+    src="https://media4.giphy.com/media/yo3TC0yeHd53G/giphy.gif?cid=da2f845e2y7qk5or0ob5qgkwccppdh5v5xduh22van8xm9xb&rid=giphy.gif&ct=g"
+  />
+  <p>
+    One Punch Man
+  </p>
+</div>
+`;
